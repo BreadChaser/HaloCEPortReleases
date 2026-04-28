@@ -1,9 +1,25 @@
 {
+  "manifest_version": 1,
   "product": "halo-ce-port",
+  "name": "Halo CE Port Test",
+  "channel": "playtest",
   "version": "a0.0.2",
   "build": "1",
+  "build_name": "halo-ce-port a0.0.2+1",
+  "systems": {
+    "linux": ["linux_amd64"],
+    "windows": []
+  },
   "packages": {
     "linux_amd64": {
+      "system": "linux",
+      "arch": "amd64",
+      "name": "Halo CE Port Test Linux x86_64",
+      "version": "a0.0.2",
+      "build": "1",
+      "build_name": "halo-ce-port a0.0.2+1",
+      "file": "linux/halo-ce-port-a0.0.2+1-linux-amd64.zip",
+      "executable": "halo-ce-runtime-a0.0.2+1-linux-amd64",
       "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/halo-ce-port-a0.0.2+1-linux-amd64.zip"
     }
   }
