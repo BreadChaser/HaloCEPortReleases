@@ -3,7 +3,7 @@
   "product": "halo-ce-port",
   "name": "Halo CE Port Test",
   "channel": "playtest",
-  "resource_dir": "Resources",
+  "resource_dir": "resources",
   "version": "a0.0.2",
   "build": "1",
   "build_name": "halo-ce-port a0.0.2+1",

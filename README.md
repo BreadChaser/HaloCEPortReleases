@@ -7,6 +7,7 @@ Public feed for Halo CE Port playtest builds.
 - `windows/` is reserved for future Windows packages.
 - `launcher/` is reserved for standalone launcher builds.
 - Each package entry includes system, architecture, filename, executable name, version, build, and build name while keeping `packages.<platform>.url` simple for launchers.
+- `latest.json` sets `resource_dir` to `resources`; launchers should create that folder beside the versioned runtime folders and keep player-owned Halo files there across updates.
 - Source code stays private in the separate `HaloCEPortTest` repository.
 
 Publishing is automated from the source repo:
