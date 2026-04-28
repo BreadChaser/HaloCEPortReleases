@@ -13,8 +13,8 @@
   "channel": "playtest",
   "resource_dir": "resources",
   "version": "a0.0.3",
-  "build": "5",
-  "build_name": "halo-ce-port a0.0.3+5",
+  "build": "6",
+  "build_name": "halo-ce-port a0.0.3+6",
   "systems": {
     "linux": ["linux_amd64"],
     "windows": ["windows_amd64"]
@@ -25,22 +25,22 @@
       "arch": "amd64",
       "name": "Halo CE Port Test Linux x86_64",
       "version": "a0.0.3",
-      "build": "5",
-      "build_name": "halo-ce-port a0.0.3+5",
-      "file": "linux/halo-ce-port-a0.0.3+5-linux-amd64.zip",
-      "executable": "halo-ce-runtime-a0.0.3+5-linux-amd64",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/halo-ce-port-a0.0.3+5-linux-amd64.zip"
+      "build": "6",
+      "build_name": "halo-ce-port a0.0.3+6",
+      "file": "linux/halo-ce-port-a0.0.3+6-linux-amd64.zip",
+      "executable": "halo-ce-runtime-a0.0.3+6-linux-amd64",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/halo-ce-port-a0.0.3+6-linux-amd64.zip"
     },
     "windows_amd64": {
       "system": "windows",
       "arch": "amd64",
       "name": "Halo CE Port Test Windows x86_64",
       "version": "a0.0.3",
-      "build": "5",
-      "build_name": "halo-ce-port a0.0.3+5",
-      "file": "windows/halo-ce-port-a0.0.3+5-windows-amd64.zip",
-      "executable": "halo-ce-runtime-a0.0.3+5-windows-amd64.exe",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/windows/halo-ce-port-a0.0.3+5-windows-amd64.zip"
+      "build": "6",
+      "build_name": "halo-ce-port a0.0.3+6",
+      "file": "windows/halo-ce-port-a0.0.3+6-windows-amd64.zip",
+      "executable": "halo-ce-runtime-a0.0.3+6-windows-amd64.exe",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/windows/halo-ce-port-a0.0.3+6-windows-amd64.zip"
     }
   }
 }
