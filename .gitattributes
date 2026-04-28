@@ -1,0 +1,2 @@
+# Windows helper scripts should keep CRLF if they are published later.
+*.bat text eol=crlf
