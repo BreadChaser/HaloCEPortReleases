@@ -1,6 +1,10 @@
 {
   "product": "halo-ce-port",
-  "version": "a0.0.1",
-  "build": "0",
-  "packages": {}
+  "version": "a0.0.2",
+  "build": "1",
+  "packages": {
+    "linux_amd64": {
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/halo-ce-port-a0.0.2+1-linux-amd64.zip"
+    }
+  }
 }
