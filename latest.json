@@ -12,9 +12,9 @@
   "name": "Halo CE Port Test",
   "channel": "playtest",
   "resource_dir": "resources",
-  "version": "a0.0.10",
-  "build": "13",
-  "build_name": "halo-ce-port a0.0.10+13",
+  "version": "a0.0.11",
+  "build": "14",
+  "build_name": "halo-ce-port a0.0.11+14",
   "systems": {
     "linux": ["linux_amd64"],
     "windows": ["windows_amd64"],
@@ -25,34 +25,34 @@
       "system": "linux",
       "arch": "amd64",
       "name": "Halo CE Port Test Linux x86_64",
-      "version": "a0.0.10",
-      "build": "13",
-      "build_name": "halo-ce-port a0.0.10+13",
-      "file": "linux/halo-ce-port-a0.0.10+13-linux-amd64.zip",
-      "executable": "halo-ce-runtime-a0.0.10+13-linux-amd64",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/halo-ce-port-a0.0.10+13-linux-amd64.zip"
+      "version": "a0.0.11",
+      "build": "14",
+      "build_name": "halo-ce-port a0.0.11+14",
+      "file": "linux/halo-ce-port-a0.0.11+14-linux-amd64.zip",
+      "executable": "halo-ce-runtime-a0.0.11+14-linux-amd64",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/halo-ce-port-a0.0.11+14-linux-amd64.zip"
     },
     "windows_amd64": {
       "system": "windows",
       "arch": "amd64",
       "name": "Halo CE Port Test Windows x86_64",
-      "version": "a0.0.10",
-      "build": "13",
-      "build_name": "halo-ce-port a0.0.10+13",
-      "file": "windows/halo-ce-port-a0.0.10+13-windows-amd64.zip",
-      "executable": "halo-ce-runtime-a0.0.10+13-windows-amd64.exe",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/windows/halo-ce-port-a0.0.10+13-windows-amd64.zip"
+      "version": "a0.0.11",
+      "build": "14",
+      "build_name": "halo-ce-port a0.0.11+14",
+      "file": "windows/halo-ce-port-a0.0.11+14-windows-amd64.zip",
+      "executable": "halo-ce-runtime-a0.0.11+14-windows-amd64.exe",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/windows/halo-ce-port-a0.0.11+14-windows-amd64.zip"
     },
     "nintendo_3ds": {
       "system": "nintendo_3ds",
       "arch": "armv6k",
       "name": "Halo CE Port Test Nintendo 3DS",
-      "version": "a0.0.10",
-      "build": "13",
-      "build_name": "halo-ce-port a0.0.10+13",
-      "file": "3ds/halo-ce-port-a0.0.10+13-3ds.zip",
-      "executable": "ringworld3ds-a0.0.10+13-3ds.3dsx",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/3ds/halo-ce-port-a0.0.10+13-3ds.zip"
+      "version": "a0.0.11",
+      "build": "14",
+      "build_name": "halo-ce-port a0.0.11+14",
+      "file": "3ds/halo-ce-port-a0.0.11+14-3ds.zip",
+      "executable": "ringworld3ds-a0.0.11+14-3ds.3dsx",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/3ds/halo-ce-port-a0.0.11+14-3ds.zip"
     }
   }
 }
