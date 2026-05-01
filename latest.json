@@ -9,12 +9,12 @@
   },
   "manifest_version": 1,
   "product": "halo-ce-port",
-  "name": "Halo CE Port Test",
+  "name": "Ring Runner",
   "channel": "playtest",
   "resource_dir": "resources",
-  "version": "a0.0.19",
-  "build": "32",
-  "build_name": "halo-ce-port a0.0.19+32",
+  "version": "a0.0.20",
+  "build": "33",
+  "build_name": "halo-ce-port a0.0.20+33",
   "systems": {
     "linux": ["linux_amd64"],
     "windows": ["windows_amd64"],
@@ -24,35 +24,35 @@
     "linux_amd64": {
       "system": "linux",
       "arch": "amd64",
-      "name": "Halo CE Port Test Linux x86_64",
-      "version": "a0.0.19",
-      "build": "32",
-      "build_name": "halo-ce-port a0.0.19+32",
-      "file": "linux/halo-ce-port-a0.0.19+32-linux-amd64.zip",
-      "executable": "halo-ce-runtime-a0.0.19+32-linux-amd64",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/halo-ce-port-a0.0.19+32-linux-amd64.zip"
+      "name": "Ring Runner Linux x86_64",
+      "version": "a0.0.20",
+      "build": "33",
+      "build_name": "halo-ce-port a0.0.20+33",
+      "file": "linux/halo-ce-port-a0.0.20+33-linux-amd64.zip",
+      "executable": "halo-ce-runtime-a0.0.20+33-linux-amd64",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/halo-ce-port-a0.0.20+33-linux-amd64.zip"
     },
     "windows_amd64": {
       "system": "windows",
       "arch": "amd64",
-      "name": "Halo CE Port Test Windows x86_64",
-      "version": "a0.0.19",
-      "build": "32",
-      "build_name": "halo-ce-port a0.0.19+32",
-      "file": "windows/halo-ce-port-a0.0.19+32-windows-amd64.zip",
-      "executable": "halo-ce-runtime-a0.0.19+32-windows-amd64.exe",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/windows/halo-ce-port-a0.0.19+32-windows-amd64.zip"
+      "name": "Ring Runner Windows x86_64",
+      "version": "a0.0.20",
+      "build": "33",
+      "build_name": "halo-ce-port a0.0.20+33",
+      "file": "windows/halo-ce-port-a0.0.20+33-windows-amd64.zip",
+      "executable": "halo-ce-runtime-a0.0.20+33-windows-amd64.exe",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/windows/halo-ce-port-a0.0.20+33-windows-amd64.zip"
     },
     "nintendo_3ds": {
       "system": "nintendo_3ds",
       "arch": "armv6k",
-      "name": "Halo CE Port Test Nintendo 3DS",
-      "version": "a0.0.19",
-      "build": "32",
-      "build_name": "halo-ce-port a0.0.19+32",
-      "file": "3ds/halo-ce-port-a0.0.19+32-3ds.zip",
-      "executable": "ringworld3ds-a0.0.19+32-3ds.3dsx",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/3ds/halo-ce-port-a0.0.19+32-3ds.zip"
+      "name": "Ring Runner Nintendo 3DS",
+      "version": "a0.0.20",
+      "build": "33",
+      "build_name": "halo-ce-port a0.0.20+33",
+      "file": "3ds/halo-ce-port-a0.0.20+33-3ds.zip",
+      "executable": "ringrunner3ds-a0.0.20+33-3ds.3dsx",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/3ds/halo-ce-port-a0.0.20+33-3ds.zip"
     }
   }
 }
