@@ -12,9 +12,9 @@
   "name": "Ring Runner",
   "channel": "playtest",
   "resource_dir": "resources",
-  "version": "a0.0.37",
-  "build": "55",
-  "build_name": "RingRunner a0.0.37+55",
+  "version": "a0.0.38",
+  "build": "56",
+  "build_name": "RingRunner a0.0.38+56",
   "systems": {
     "linux": ["linux_amd64"],
     "windows": ["windows_amd64"],
@@ -25,34 +25,34 @@
       "system": "linux",
       "arch": "amd64",
       "name": "Ring Runner Linux x86_64",
-      "version": "a0.0.37",
-      "build": "55",
-      "build_name": "RingRunner a0.0.37+55",
-      "file": "linux/RingRunner_Linux_x86-64_V-a0.0.37+55.zip",
-      "executable": "RingRunner_Linux_x86-64_V-a0.0.37+55",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/RingRunner_Linux_x86-64_V-a0.0.37+55.zip"
+      "version": "a0.0.38",
+      "build": "56",
+      "build_name": "RingRunner a0.0.38+56",
+      "file": "linux/RingRunner_Linux_x86-64_V-a0.0.38+56.zip",
+      "executable": "RingRunner_Linux_x86-64_V-a0.0.38+56",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/linux/RingRunner_Linux_x86-64_V-a0.0.38+56.zip"
     },
     "windows_amd64": {
       "system": "windows",
       "arch": "amd64",
       "name": "Ring Runner Windows x86_64",
-      "version": "a0.0.37",
-      "build": "55",
-      "build_name": "RingRunner a0.0.37+55",
-      "file": "windows/RingRunner_Win_x86-64_V-a0.0.37+55.zip",
-      "executable": "RingRunner_Win_x86-64_V-a0.0.37+55.exe",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/windows/RingRunner_Win_x86-64_V-a0.0.37+55.zip"
+      "version": "a0.0.38",
+      "build": "56",
+      "build_name": "RingRunner a0.0.38+56",
+      "file": "windows/RingRunner_Win_x86-64_V-a0.0.38+56.zip",
+      "executable": "RingRunner_Win_x86-64_V-a0.0.38+56.exe",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/windows/RingRunner_Win_x86-64_V-a0.0.38+56.zip"
     },
     "nintendo_3ds": {
       "system": "nintendo_3ds",
       "arch": "armv6k",
       "name": "Ring Runner Nintendo 3DS",
-      "version": "a0.0.37",
-      "build": "55",
-      "build_name": "RingRunner a0.0.37+55",
-      "file": "3ds/RingRunner_3DS_ARMv6K_V-a0.0.37+55.zip",
-      "executable": "RingRunner_3DS_ARMv6K_V-a0.0.37+55.3dsx",
-      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/3ds/RingRunner_3DS_ARMv6K_V-a0.0.37+55.zip"
+      "version": "a0.0.38",
+      "build": "56",
+      "build_name": "RingRunner a0.0.38+56",
+      "file": "3ds/RingRunner_3DS_ARMv6K_V-a0.0.38+56.zip",
+      "executable": "RingRunner_3DS_ARMv6K_V-a0.0.38+56.3dsx",
+      "url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/3ds/RingRunner_3DS_ARMv6K_V-a0.0.38+56.zip"
     }
   }
 }
